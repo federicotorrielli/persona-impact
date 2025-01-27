@@ -1,4 +1,4 @@
-# Impact of Simulacra Roles on Large Language Model Responses: Does it Make a Difference?
+# Do Roles Actually Influence Large Language Model Responses?
 
 This project aims to evaluate the impact of assigning persona-based roles to Large Language Models (LLMs) on their performance in various Natural Language Processing (NLP) tasks. The tasks include closed-ended questions (HellaSwag dataset) and summarization (CNN/DailyMail dataset).
 
